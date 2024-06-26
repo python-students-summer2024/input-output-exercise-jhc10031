@@ -50,3 +50,4 @@ def get_name_and_age():
     name = input('What is your name?')
     age = input('How old are you?')
     print(f"Interesting! My name is also {name}, and I'm also {age} years old")
+    
